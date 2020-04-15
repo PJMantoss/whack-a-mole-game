@@ -1,4 +1,4 @@
-Whack A Mole is a simple game in which the user has to whack the mole as many times as possible within 60 seconds. The game was invented in 1976 by Aaron Fetcher of Creative Engineering Inc USA.
+Whack A Mole is an arcade redemption game in which the user has to whack the mole as many times as possible within 60 seconds. The game was invented in 1976 by Aaron Fetcher of Creative Engineering Inc USA.
 
 
 RULES
