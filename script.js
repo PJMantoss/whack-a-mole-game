@@ -31,6 +31,8 @@ const moveMole = () => {
     timerId = setInterval(randomSquare, 1000);
 }
 
+moveMole();
+
 const countDown = () => {
     currentTime--;
     timeLeft.textContent = currentTime;
