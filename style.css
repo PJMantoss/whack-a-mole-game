@@ -51,5 +51,6 @@ header {
     .square {
         width: 30%;
         height: 100px;
+        border-style: thin;
     }
 }
