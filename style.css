@@ -42,6 +42,7 @@ header {
         flex-wrap: wrap;
         width: 80%;
         height: auto;
+        margin-bottom: 30px;
     }
 
     .square {
