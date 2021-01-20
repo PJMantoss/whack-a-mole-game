@@ -39,12 +39,12 @@ header {
 
 @media(max-width: 600px){
     .grid {
+        flex-wrap: wrap;
         width: 80%;
         height: auto;
     }
 
     .square {
-        width: 33%;
-        height: ;
+        width: 30%;
     }
 }
