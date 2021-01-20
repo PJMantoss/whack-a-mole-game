@@ -53,6 +53,11 @@ footer > span {
     color: white
 }
 
+footer > img {
+    
+}
+
+
 @media(max-width: 600px){
     .grid {
         flex-wrap: wrap;
