@@ -37,6 +37,10 @@ header {
     background-size: cover;
 }
 
+.mole img {
+    
+}
+
 @media(max-width: 600px){
     .grid {
         flex-wrap: wrap;
