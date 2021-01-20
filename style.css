@@ -40,5 +40,6 @@ header {
 @media(max-width: 600px){
     .grid {
         width: 80%;
+        height: auto;
     }
 }
