@@ -46,6 +46,10 @@ footer {
     margin-top: 50px;
 }
 
+footer > span {
+    font-family: 'ZCOOL XiaoWei', serif;
+    
+}
 
 @media(max-width: 600px){
     .grid {
