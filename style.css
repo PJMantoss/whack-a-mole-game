@@ -36,3 +36,5 @@ header {
     background-image: url('mole.jpg');
     background-size: cover;
 }
+
+@media(max-width: 600px){}
