@@ -28,6 +28,7 @@ header {
     width: 618px;
     height: 618px;
     margin: auto;
+    border: 2px solid #fff;
 }
 
 .mole {
