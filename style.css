@@ -39,6 +39,12 @@ header {
     background-size: cover;
 }
 
+footer {
+    display: flex;
+   
+}
+
+
 @media(max-width: 600px){
     .grid {
         flex-wrap: wrap;
